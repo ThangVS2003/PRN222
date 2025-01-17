@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WebRequest & WebResponse Demo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

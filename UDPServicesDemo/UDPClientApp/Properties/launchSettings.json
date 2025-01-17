@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "UDPClientApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
